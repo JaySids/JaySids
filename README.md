@@ -26,10 +26,4 @@
 
 **Lotus** — Automates housing applications with intelligent field mapping and a multilingual chatbot. 3rd place @ Chinatown Hacks.
 
-**Axium Vision** — Computer vision for defect detection at 95% accuracy with 10ms inference on NVIDIA Jetson Orin AGX.
-
----
-
-### Tech Stack
-
-Python, JavaScript, C++, Java, React, FastAPI, Flask, Node.js, Docker, Linux, MongoDB, Git
+**Axium Robotics** — Computer vision for defect detection at 95% accuracy with 10ms inference on NVIDIA Jetson Orin AGX.
