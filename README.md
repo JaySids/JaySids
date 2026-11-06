@@ -18,7 +18,7 @@ Studying CS at **UIUC**, class of 2028.
 
 **[Soar](https://joinsoar.co)** — building the future of travel
 
-**[Axium Robotics](https://axiumrobotics.com)** — f.inc robotics company trying to make inspection ridiculously cheap
+**Axium Robotics** — f.inc robotics company trying to make inspection ridiculously cheap
 
 ### Projects
 
