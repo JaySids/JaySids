@@ -22,7 +22,7 @@ Studying CS at **UIUC**, class of 2028.
 
 ### Projects
 
-**Kiru** — voice agents that call businesses and haggle for discounts. TreeHacks winner.
+**[Kiru](https://kiru.chat)** — voice agents that call businesses and haggle for discounts. TreeHacks winner.
 
 **CloneStudio** — clones any website's UI with an LLM refinement loop, deployed in sandboxes.
 
