@@ -3,20 +3,22 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jayanthsidamsety">LinkedIn</a> | <a href="https://x.com/jay_sidamsety">X</a> | <a href="mailto:jayanth7@illinois.edu">jayanth7@illinois.edu</a>
+  <a href="https://main-website-2026-w42b.vercel.app">Website</a> | <a href="https://linkedin.com/in/jayanthsidamsety">LinkedIn</a> | <a href="https://x.com/jay_sidamsety">X</a> | <a href="mailto:jayanth7@illinois.edu">jayanth7@illinois.edu</a>
 </p>
 
 ---
 
 ### Now
 
-Software engineering intern at **Turnstone (YC W26)**, building AI history import and agent memory. Studying CS at **UIUC**, class of 2028.
+Studying CS at **UIUC**, class of 2028.
 
-### Before
+### Experience
 
-**Soar** — agentic iMessage travel assistant used by 1,000+ people.
+**[Turnstone (YC W26)](https://myturnstone.ai)** — model agnostic grokbot that's actually good
 
-**Axium Robotics** — computer vision for defect detection at 95% accuracy, 10ms inference on Jetson Orin.
+**[Soar](https://joinsoar.co)** — building the future of travel
+
+**[Axium Robotics](https://axiumrobotics.com)** — f.inc robotics company trying to make inspection ridiculously cheap
 
 ### Projects
 
